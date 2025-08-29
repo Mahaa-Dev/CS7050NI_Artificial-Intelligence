@@ -8,7 +8,7 @@ This Unity project implements an autonomous drone delivery simulation using A* p
 
 ## Project Structure
 - `Assets/`: Unity project assets
-- `Scripts/`: C# source files
+- `Assets/Scripts/`: C# source files
 - `BuildFile/`: Build outputs
   
 
